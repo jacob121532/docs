@@ -7,7 +7,8 @@ class BetaPages
       'test-analytics/dotnet-collectors',
       'agent/clusters',
       'apis/rest-api/clusters',
-      'apis/rest-api/pipeline-templates'
+      'apis/rest-api/pipeline-templates',
+      'apis/rest-api/team-pipelines',
     ]
   end
 end
